@@ -1,0 +1,23 @@
+[
+    {
+        "name": "kalyca",
+        "score": 450,
+        "difficulty": "Normal",
+        "time": 104.35,
+        "date": "09-11-2026"
+    },
+    {
+        "name": "dindaa",
+        "score": 50,
+        "difficulty": "Hard",
+        "time": 5.02,
+        "date": "09-11-2026"
+    },
+    {
+        "name": "dinda",
+        "score": 20,
+        "difficulty": "Hard",
+        "time": 1.52,
+        "date": "09-11-2026"
+    }
+]
